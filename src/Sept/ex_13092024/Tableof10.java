@@ -1,6 +1,6 @@
 package Sept.ex_13092024;
 
-public class JavaPractise {
+public class Tableof10 {
     public static void main(String[] args) {
         int num = 10;
         System.out.printf("value of %d" ,num);
