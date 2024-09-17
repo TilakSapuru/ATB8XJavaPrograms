@@ -8,5 +8,6 @@ public class Lab031 {
         System.out.println(b);
 
 
+
     }
 }

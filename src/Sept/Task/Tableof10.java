@@ -1,4 +1,4 @@
-package Sept.ex_13092024;
+package Sept.Task;
 
 public class Tableof10 {
     public static void main(String[] args) {
