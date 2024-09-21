@@ -3,7 +3,7 @@ package Sept.Task;
 public class Tableof10 {
     public static void main(String[] args) {
         int num = 10;
-        System.out.printf("value of %d" ,num);
+        //System.out.printf("value of %d" ,num);
         System.out.printf("%d * %d = %d", num,1,num*1);
         System.out.println();
         System.out.printf("%d * %d = %d", num,2,num*2);
