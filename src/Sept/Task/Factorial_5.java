@@ -2,12 +2,12 @@ package Sept.Task;
 
 public class Factorial_5 {
     public static void main(String[] args) {
-        int n =5;
+        int num =5;
         int fact = 1;
-        for(int i =1;i<=n;i++){
-            fact *=i;
+        for(int i = 1; i<= num; i++){
+            fact =fact*i;
         }
-        System.out.println("Factorial of " + n +"="+ fact);
+        System.out.println("Factorial of " + num +"="+ fact);
     }
 
 
